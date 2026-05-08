@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PigLatin
+comment0.text=\r\n\ Translating\ to\ Pig\ Latin\r\n
+comment1.params=s
+comment1.target=java.lang.String\ translateToPigLatin(java.lang.String)
+comment1.text=\r\n\ Takes\ English\ text\ and\ translates\ all\ words\ into\ Pig\ Latin.\r\n\ \r\n\ @param\ s\ a\ String\ of\ English\ text\r\n\ @return\ returns\ the\ text\ in\ Pig\ Latin\r\n
+comment2.params=s
+comment2.target=java.lang.String\ vowelsPigLatin(java.lang.String)
+comment2.text=\r\n\ Translate\ a\ word\ starting\ with\ a\ vowel\ into\ Pig\ Latin.\r\n\ \r\n\ @param\ s\ a\ word\ beginning\ with\ a\ vowel\r\n\ @return\ the\ word\ translated\ into\ Pig\ Latin\r\n
+comment3.params=s
+comment3.target=java.lang.String\ consonantsPigLatin(java.lang.String)
+comment3.text=\r\n\ Translate\ a\ word\ starting\ with\ a\ consonant\ into\ Pig\ Latin\r\n\ \r\n\ @param\ s\ a\ word\ beginning\ with\ a\ consonant\r\n\ @return\ the\ word\ translated\ into\ Pig\ Latin\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EmployeeActions
+comment0.text=\r\n\ Some\ operations\ relating\ to\ the\ Employee\ class.\r\n
+comment1.params=
+comment1.target=Employee\ sampleEmployee()
+comment1.text=\r\n\ Returns\ a\ sample\ employee\ record\ for\ Joe\ Bloggs.\r\n\ \r\n\ @return\ the\ employee\ record\r\n
+comment2.params=e\ p
+comment2.target=void\ increaseSalary(Employee,\ int)
+comment2.text=\r\n\ Add\ an\ amount\ to\ the\ employee\ salary.\r\n\r\n\ @param\ e\ the\ employee\ to\ act\ on\r\n\ @param\ p\ the\ amount\ to\ increase\ salary\r\n\ \r\n
+numComments=3

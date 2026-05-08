@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Palindromes
+comment0.text=\r\n\ Reversing\ strings,\ and\ palindromes\r\n
+comment1.params=s
+comment1.target=java.lang.String\ reverse(java.lang.String)
+comment1.text=\r\n\ Reverse\ the\ order\ of\ characters\ and\ return\ the\ result.\r\n\r\n\ @param\ s\ a\ string\ \r\n\ @return\ returns\ the\ reverse\ of\ s\r\n
+comment2.params=s
+comment2.target=boolean\ isPalindrome(java.lang.String)
+comment2.text=\r\n\ Tests\ whether\ a\ string\ is\ a\ palindrome.\r\n\ \r\n\ @param\ s\ a\ string\r\n\ @return\ returns\ the\ boolean\r\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ComplexComputation
+comment0.text=\r\n\ Some\ computations\ with\ complex\ numbers.\r\n
+comment1.params=z
+comment1.target=double\ abs(ComplexNumber)
+comment1.text=\r\n\ Returns\ the\ absolute\ value\ of\ a\ complex\ number.\r\n\ (This\ is\ taken\ from\ the\ lectures.)\r\n\r\n\ @param\ z\ a\ complex\ number\r\n\ @return\ |z|\r\n
+comment2.params=z\ w
+comment2.target=ComplexNumber\ add(ComplexNumber,\ ComplexNumber)
+comment2.text=\r\n\ Adds\ two\ complex\ numbers.\r\n\ (This\ is\ taken\ from\ the\ lectures.)\r\n\r\n\ @param\ z\ the\ first\ summand\r\n\ @param\ w\ the\ second\ summand\r\n\ @return\ z+w\r\n
+comment3.params=z\ w
+comment3.target=ComplexNumber\ subtract(ComplexNumber,\ ComplexNumber)
+comment3.text=\r\n\ Subtracts\ one\ complex\ numbers\ from\ the\ other.\r\n\r\n\ @param\ z\ the\ first\ complex\ number\r\n\ @param\ w\ the\ second\ complex\ number\r\n\ @return\ z-w\r\n
+comment4.params=z
+comment4.target=ComplexNumber\ conjugate(ComplexNumber)
+comment4.text=\r\n\ Returns\ the\ complex\ conjugate\ of\ a\ complex\ number.\r\n\r\n\ @param\ \ z\ a\ complex\ number\r\n\ @return\ the\ complex\ conjugate\r\n
+comment5.params=z\ w
+comment5.target=ComplexNumber\ multiply(ComplexNumber,\ ComplexNumber)
+comment5.text=\r\n\ Multiplies\ two\ complex\ numbers\ together.\r\n\ \r\n\ @param\ z\ the\ first\ complex\ number\r\n\ @param\ w\ the\ second\ complex\ number\r\n\ @return\ z*w\r\n
+comment6.params=z\ w
+comment6.target=ComplexNumber\ divide(ComplexNumber,\ ComplexNumber)
+comment6.text=\r\n\ Divides\ two\ complex\ numbers.\r\n\ \r\n\ @param\ z\ the\ first\ complex\ number\r\n\ @\ param\ w\ the\ second\ complex\ number\r\n\ @return\ z/w\r\n
+numComments=7

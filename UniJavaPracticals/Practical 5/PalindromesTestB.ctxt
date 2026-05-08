@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PalindromesTestB
+comment0.text=\r\n\ Unit\ test\ for\ palindromes,\ part\ (b)\r\n
+comment1.params=
+comment1.target=void\ isPalindromeNullTest()
+comment2.params=
+comment2.target=void\ isPalindromeEmptyTest()
+comment3.params=
+comment3.target=void\ isPalindromeNegativeTest()
+comment4.params=
+comment4.target=void\ isPalindromePositiveTest1()
+comment5.params=
+comment5.target=void\ isPalindromePositiveTest2()
+numComments=6

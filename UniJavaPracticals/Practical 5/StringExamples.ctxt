@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StringExamples
+comment0.text=\r\n\ Some\ examples\ for\ string\ handling\r\n
+comment1.params=s
+comment1.target=boolean\ containsE(java.lang.String)
+comment1.text=\r\n\ Checks\ whether\ the\ input\ string\ contains\ the\ lowercase\ letter\ 'e'.\r\n\r\n\ @param\ s\ the\ string\ to\ be\ checked.\ It\ is\ assumed\ to\ be\ not\ null.\r\n\ @return\ whether\ s\ contains\ the\ letter\ 'e'\r\n
+comment2.params=s
+comment2.target=int\ countE(java.lang.String)
+comment2.text=\r\n\ Counts\ the\ number\ of\ occurrences\ of\ the\ lowercase\ letter\ 'e'\ in\ the\ \r\n\ input\ string.\r\n\ \r\n\ @param\ s\ the\ string\ to\ be\ cheked.\ This\ is\ assumed\ to\ be\ not\ null.\r\n\ @return\ the\ number\ of\ occurences\ of\ 'e'\ in\ the\ string\ s\r\n
+comment3.params=s
+comment3.target=java.lang.String\ splitAtSpace(java.lang.String)
+comment3.text=\r\n\ Replaces\ the\ first\ occurrence\ of\ a\ space\ character\ in\ the\ input\ string\r\n\ with\ three\ hyphens.\r\n\r\n\ @param\ s\ the\ string\ where\ spaces\ are\ to\ be\ replaced.\ Assumed\ to\ be\ not\ null.\r\n\ @return\ the\ string\ s\ with\ the\ first\ space\ replaced\ by\ "---"\r\n
+numComments=4

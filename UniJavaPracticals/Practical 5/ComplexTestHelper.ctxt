@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ComplexTestHelper
+comment0.text=\r\n\ Mathematical\ Skills\ II,\ Programming\r\n\ Practical\ 4\r\n\ Helper\ class\ for\ unit\ tests\ in\ Exercise\ 4\r\n\r\n
+comment1.params=r\ i
+comment1.target=ComplexNumber\ makeComplexNumber(double,\ double)
+comment2.params=z\ i
+comment2.target=void\ save(ComplexNumber,\ int)
+comment3.params=msg\ z\ i
+comment3.target=void\ verify(java.lang.String,\ ComplexNumber,\ int)
+comment4.params=msg\ expected\ actual
+comment4.target=void\ assertComplexEquals(java.lang.String,\ ComplexNumber,\ ComplexNumber)
+comment5.params=z
+comment5.target=java.lang.String\ toString(ComplexNumber)
+numComments=6

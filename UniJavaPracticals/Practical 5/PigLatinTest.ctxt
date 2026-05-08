@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PigLatinTest
+comment0.text=\r\n\ Unit\ test\ for\ Pig\ Latin\ translation\r\n
+comment1.params=original\ translated
+comment1.target=void\ pigLatinTest(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ emptyStringTest()
+comment3.params=
+comment3.target=void\ vowelFirstTest()
+comment4.params=
+comment4.target=void\ oneConsonantTest()
+comment5.params=
+comment5.target=void\ severalConsonantsTest()
+comment6.params=
+comment6.target=void\ unmodifiedTest()
+comment7.params=
+comment7.target=void\ uppercaseTest()
+comment8.params=
+comment8.target=void\ sentenceTest()
+numComments=9

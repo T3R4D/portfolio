@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StringExamplesTest
+comment0.text=\r\n\ Unit\ test\ for\ string\ handling\ examples\r\n
+comment1.params=
+comment1.target=void\ containsETest()
+comment2.params=s\ expected
+comment2.target=void\ testOneCountE(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ countETest()
+comment4.params=s\ expected
+comment4.target=void\ testOneSplitAtSpace(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ testSplitAtSpace()
+numComments=6
