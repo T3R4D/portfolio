@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vectors
+comment0.text=\r\n\ Some\ exercises\ related\ to\ vectors.\r\n
+comment1.params=k\ n
+comment1.target=double[]\ unitVector(int,\ int)
+comment1.text=\r\n\ Returns\ the\ k-th\ standard\ unit\ vector\ in\ n-dimensional\ space.\r\n\ It\ is\ assumed\ that\ n\ >\ 0\ and\ 0\ <\=\ k\ <\ n.\r\n
+comment2.params=a\ b
+comment2.target=double[]\ sum(double[],\ double[])
+comment2.text=\r\n\ Computes\ the\ sum\ of\ two\ vectors\ a\ and\ b.\r\n\ If\ the\ vectors\ are\ not\ of\ equal\ dimension,\ \r\n\ or\ if\ any\ of\ them\ is\ null,\ the\ function\ will\ return\ null.\r\n\ If\ the\ vectors\ are\ of\ length\ zero,\ then\ so\ will\ the\ output\ vector\ be.\r\n
+comment3.params=c\ x
+comment3.target=double[]\ scalarMult(double,\ double[])
+comment4.params=x\ y
+comment4.target=double\ scalarProduct(double[],\ double[])
+comment5.params=
+comment5.target=double\ vectorComputation()
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Arrays
+comment0.text=\r\n\ Some\ elementary\ operations\ with\ arrays.\r\n
+comment1.params=a
+comment1.target=int\ sumOfThree(int[])
+comment1.text=\r\n\ Given\ an\ array\ of\ three\ integers,\ computes\ \r\n\ a0\ +\ 2a1\ +\ 3a2.\r\n
+comment2.params=a
+comment2.target=int\ firstPlusLast(int[])
+comment2.text=\r\n\ Computes\ the\ sum\ of\ the\ first\ and\ the\ last\ element\ of\ an\ integer\ array.\r\n\ It\ is\ assumed\ that\ the\ array\ has\ at\ least\ one\ element.\r\n
+comment3.params=
+comment3.target=java.lang.String[]\ dayNames()
+comment3.text=\r\n\ Returns\ an\ array\ containing\ the\ names\ of\ the\ day\ of\ the\ week,\ starting\ with\ Monday.\r\n
+comment4.params=a
+comment4.target=int\ max(int[])
+comment4.text=\r\n\ Returns\ the\ largest\ entry\ in\ an\ array\ of\ integers.\r\n\ It\ is\ assumed\ that\ the\ array\ has\ at\ least\ one\ element.\r\n
+comment5.params=a
+comment5.target=int\ min(int[])
+comment5.text=\r\n\ Returns\ the\ smallest\ entry\ in\ an\ array\ of\ integers.\r\n\ It\ is\ assumed\ that\ the\ array\ has\ at\ least\ one\ element.\r\n
+comment6.params=a
+comment6.target=int[]\ reverse(int[])
+comment6.text=\r\n\ Returns\ an\ array\ of\ integers\ in\ reversed\ order.\r\n\ It\ is\ assumed\ that\ the\ array\ has\ at\ least\ one\ element.\r\n
+numComments=7

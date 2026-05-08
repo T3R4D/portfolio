@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MoreMatrixOpsTestA
+comment0.text=\r\n\ Unit\ tests\ for\ more\ matrix\ operations,\ part\ (a)\r\n
+comment1.params=a\ expected
+comment1.target=void\ testTranspose(double[][],\ double[][])
+comment2.params=
+comment2.target=void\ transposeNullTest()
+comment3.params=
+comment3.target=void\ transposeDiagonalTest()
+comment4.params=
+comment4.target=void\ transposeFullTest()
+numComments=5

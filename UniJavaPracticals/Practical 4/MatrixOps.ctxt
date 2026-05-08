@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MatrixOps
+comment0.text=\r\n\ Matrix\ operations\r\n
+comment1.params=
+comment1.target=double[][]\ constantMatrix()
+comment1.text=\r\n\ Returns\ a\ certain\ constant\ 3x4\ matrix,\ see\ exercise\ sheet.\r\n\ \r\n\ @return\ a\ 3x4\ matrix\r\n
+comment2.params=a\ b
+comment2.target=double[][]\ matrixSum(double[][],\ double[][])
+comment2.text=\r\n\ Computes\ the\ sum\ of\ two\ matrices\ a\ and\ b\ (which\ are\ assumed\ to\ be\ \r\n\ non-null\ and\ of\ equal\ dimension).\r\n\ \r\n\ @param\ a\ the\ first\ summand\r\n\ @param\ b\ the\ second\ summand\r\n\ @return\ a+b\ as\ a\ new\ matrix\ (2-d\ array).\r\n
+comment3.params=a\ b
+comment3.target=double[][]\ matrixDifference(double[][],\ double[][])
+comment3.text=\r\n\ Computes\ the\ difference\ a-b\ of\ two\ matrices\ a\ and\ b\ \r\n\ (which\ are\ assumed\ to\ be\ non-null\ and\ of\ equal\ dimension).\r\n\ \r\n\ @param\ a\ a\ matrix\r\n\ @param\ b\ another\ matrix\r\n\ @return\ a-b\ as\ a\ new\ matrix\ (2-d\ array).\r\n
+numComments=4

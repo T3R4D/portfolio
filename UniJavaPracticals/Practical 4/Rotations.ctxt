@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rotations
+comment0.text=\r\n\ Rotation\ matrices\r\n
+comment1.params=a\ x
+comment1.target=double[]\ matrixTimesVector(double[][],\ double[])
+comment1.text=\r\n\ From\ Lesson\ 15\:\r\n\ \r\n\ Computes\ the\ product\ ax,\ where\ a\ is\ an\ m\ x\ n\ matrix\ and\ x\ is\ an\ n-dimensional\ vector.\r\n\ \r\n\ It\ is\ assumed\ that\ the\ parameters\ are\ non-null\ and\ that\ the\ dimensions\ of\ the\ matrix\ and\r\n\ the\ vector\ are\ consistent\ to\ make\ the\ product\ work.\r\n\ \r\n\ @param\ a\ the\ matrix\ a\ as\ a\ two-dimensional\ array\r\n\ @param\ x\ the\ vector\ x\ as\ a\ one-dimensional\ array\r\n\ @return\ the\ vector\ a.x\ as\ a\ one-dimensional\ array\r\n
+comment2.params=axis\ theta
+comment2.target=double[][]\ rotationMatrix(int,\ double)
+comment3.params=v\ x\ y\ z
+comment3.target=double[]\ rotateVector(double[],\ double,\ double,\ double)
+comment4.params=
+comment4.target=double[]\ rotateThisVector()
+numComments=5

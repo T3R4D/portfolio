@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=VectorsTestB
+comment0.text=\r\n\ Unit\ test\ for\ vector-related\ exercises,\ part\ (b)\r\n
+comment1.params=
+comment1.target=void\ scalarProductTest()
+comment2.params=
+comment2.target=void\ scalarProductExceptionalValueTest()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StatsTestA
+comment0.text=\r\n\ Unit\ test\ for\ statistical\ quantities,\ part\ (a)\r\n
+comment1.params=sample
+comment1.target=java.lang.String\ sampleDesc(double[])
+comment2.params=sample\ expected
+comment2.target=void\ checkOneMeanValue(double[],\ double)
+comment3.params=
+comment3.target=void\ meanValueTest()
+comment4.params=
+comment4.target=void\ meanValueExceptionalInputTest()
+numComments=5

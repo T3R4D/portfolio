@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestHelper
+comment0.text=\r\n\ Some\ auxiliary\ routines\ used\ in\ the\ unit\ tests.\r\n\ Please\ do\ not\ modify\ this\ file.\r\n\ \r\n
+comment1.params=a
+comment1.target=double[][]\ copyMatrix(double[][])
+comment2.params=msg\ expected\ actual
+comment2.target=void\ assertMatrixEquals(java.lang.String,\ double[][],\ double[][])
+numComments=3

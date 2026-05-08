@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=VectorsTestA
+comment0.text=\r\n\ Unit\ test\ for\ vector-related\ exercises,\ part\ (a)\r\n
+comment1.params=expected\ factor\ vector
+comment1.target=void\ testOneScalarMult(double[],\ double,\ double[])
+comment2.params=
+comment2.target=void\ scalarMultTest()
+comment3.params=
+comment3.target=void\ scalarMultExceptionalValueTest()
+numComments=4

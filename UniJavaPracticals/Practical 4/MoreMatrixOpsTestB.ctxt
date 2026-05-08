@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MoreMatrixOpsTestB
+comment0.text=\r\n\ Unit\ tests\ for\ more\ matrix\ operations,\ part\ (b)\r\n
+comment1.params=a\ b\ expected
+comment1.target=void\ testProduct(double[][],\ double[][],\ double[][])
+comment2.params=
+comment2.target=void\ matrixProductNullTest()
+comment3.params=
+comment3.target=void\ matrixProductDimensionTest()
+comment4.params=
+comment4.target=void\ matrixProductFullTest()
+comment5.params=
+comment5.target=void\ matrixProductIdentityTest()
+numComments=6
