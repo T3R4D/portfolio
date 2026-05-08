@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MockEmail
+comment0.text=\r\n\ "Mock\ e-mail"\ helper\ class.\r\n\ \r\n\ This\ code\ is\ used\ as\ part\ of\ Exercise\ 4.\r\n\ Please\ DO\ NOT\ modify\ it.\r\n\ \r\n\ Your\ own\ code\ should\ go\ into\ the\ classes\r\n\ "Student"\ and\ "StudentExample"\ instead.\r\n
+comment1.params=recipient\ subject\ message
+comment1.target=void\ sendEmail(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Sends\ an\ "email"\ with\ given\ subject\ and\ message\ text\ to\ a\ recipient.\r\n\ (This\ doesn't\ actually\ send\ an\ e-mail;\ instead\ it\ prints\ a\ message\ to\ the\ screen.)\r\n\ \r\n\ @param\ recipient\ The\ recipient's\ e-mail\ address\r\n\ @param\ subject\ The\ subject\ line\ of\ the\ message\r\n\ @param\ message\ The\ message\ text\r\n
+numComments=2

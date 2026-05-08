@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sequence
+comment1.params=filename\ n
+comment1.target=void\ writeToFile(java.lang.String,\ int)
+comment1.text=\r\n\ This\ procedure\ writes\ the\ sequence\ of\ a_(n+1)\=7-2n\ from\ a_0\ \=\ 3,\ \r\n\ to\ a_n.\r\n\ \r\n\ @param\ filename,\ the\ name\ of\ the\ file,\ a\ String\r\n\ @param\ n,\ integer,\ assumed\ to\ be\ greater\ than\ or\ equal\ to\ 0\r\n\ \r\n\ @throws\ IOException\r\n
+numComments=2

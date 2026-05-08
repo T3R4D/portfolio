@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NetStatsTest
+comment0.text=\r\n\ Unit\ tests\ for\ reading\ statistical\ data\ from\ a\ web\ address\r\n
+comment1.params=
+comment1.target=void\ meanValueTest()
+comment2.params=
+comment2.target=void\ medianTest()
+comment3.params=
+comment3.target=void\ dataSeriesTest()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileStats
+comment0.text=\ \r\n\ Computing\ statistical\ functions\ on\ a\ data\ series\ that\ is\ read\ from\ a\ file\r\n
+comment1.params=filename
+comment1.target=double\ meanValueFromFile(java.lang.String)
+comment1.text=\r\n\ Reading\ from\ a\ file\ and\ then\ working\ out\ the\ mean\ of\ the\ data.\r\n\r\n\ @param\ filename\ the\ name\ of\ the\ file\ where\ the\ data\ is\ stored\r\n\ @return\ the\ mean\ of\ the\ data\r\n\ \r\n\ @throws\ IOException\r\n
+comment2.params=filename\ k
+comment2.target=double\ momentFromFile(java.lang.String,\ int)
+comment2.text=\r\n\ Reading\ from\ a\ file\ and\ then\ working\ out\ the\ kth\ moment\ of\ the\ data.\r\n\r\n\ @param\ filename\ the\ name\ of\ the\ file\ where\ the\ data\ is\ stored\r\n\ @param\ k\ the\ integer\ k\ for\ the\ kth\ moment\r\n\ @return\ the\ kth\ moment\ \r\n\ \r\n\ @throws\ IOException\r\n
+comment3.params=filename
+comment3.target=double\ standardDeviationFromFile(java.lang.String)
+comment3.text=\r\n\ Reading\ from\ a\ file\ and\ then\ working\ out\ the\ kth\ moment\ of\ the\ data.\r\n\r\n\ @param\ filename\ the\ name\ of\ the\ file\ where\ the\ data\ is\ stored\r\n\ @param\ k\ the\ integer\ k\ for\ the\ kth\ moment\r\n\ @return\ the\ kth\ moment\ \r\n\ \r\n\ @throws\ IOException\r\n
+numComments=4

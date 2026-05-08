@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=NetStats
+comment0.text=\r\n\ Computing\ statistical\ quantities\ from\ a\ data\ series\r\n\ read\ from\ a\ web\ address.\r\n
+comment1.params=
+comment1.target=double\ meanValueFromNet()
+comment1.text=\r\n\ Reads\ data\ from\ a\ url\ and\ then\ working\ out\ the\ mean\ of\ the\ data.\r\n\r\n\ @param\ filename\ the\ name\ of\ the\ file\ where\ the\ data\ is\ stored\r\n\ @return\ the\ mean\ of\ the\ data\r\n\ \r\n\ @throws\ IOException\r\n
+comment2.params=
+comment2.target=double[]\ readDataSeries()
+comment2.text=\r\n\ Reads\ data\ from\ a\ url\ and\ then\ puts\ the\ data\ into\ an\ array.\r\n\ \r\n\ @return\ the\ data\ in\ an\ array\r\n\ \r\n\ @throws\ IOException\r\n
+comment3.params=
+comment3.target=double\ medianFromNet()
+numComments=4

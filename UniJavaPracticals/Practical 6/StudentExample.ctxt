@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StudentExample
+comment0.text=\r\n\ Operations\ on\ student\ records\r\n
+comment1.params=
+comment1.target=Student\ testStudent()
+comment2.params=a
+comment2.target=void\ sendWelcomeMessage(Student)
+numComments=3

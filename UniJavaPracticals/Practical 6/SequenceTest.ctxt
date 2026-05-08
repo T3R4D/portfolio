@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SequenceTest
+comment0.text=\r\n\ Unit\ tests\ for\ writing\ sequence\ to\ a\ file\r\n
+comment1.params=n\ testN\ expected
+comment1.target=void\ testSequenceFile(int,\ int,\ long)
+comment2.params=
+comment2.target=void\ sequenceShortTest()
+comment3.params=
+comment3.target=void\ sequenceLongTest()
+numComments=4
