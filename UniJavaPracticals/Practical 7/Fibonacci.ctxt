@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment0.text=\r\n\ Exercise\ 1\ -\ Fibonacci\ numbers\r\n
+comment1.params=n
+comment1.target=java.lang.String\ fibonacci(int)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComplexNumberTestB
+comment0.text=\r\n\ Unit\ tests\ for\ Complex\ Number\ exercise,\ part\ b\r\n\ \r\n
+comment1.params=
+comment1.target=void\ subtractTest()
+comment2.params=zr\ zi\ wr\ wi\ er\ ei
+comment2.target=void\ testDivision(double,\ double,\ double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ divideTest()
+numComments=4

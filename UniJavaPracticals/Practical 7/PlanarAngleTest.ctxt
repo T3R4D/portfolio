@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlanarAngleTest
+comment0.text=\r\n\ Unit\ tests\ for\ the\ PlanarAngle\ class.\r\n
+comment1.params=
+comment1.target=void\ radiansTest()
+comment2.params=
+comment2.target=void\ degreeTest()
+numComments=3

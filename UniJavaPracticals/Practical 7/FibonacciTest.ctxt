@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FibonacciTest
+comment0.text=\r\n\ Unit\ test\ for\ Fibonacci\ numbers\ \r\n
+comment1.params=
+comment1.target=void\ checkReturnType()
+comment2.params=
+comment2.target=void\ fibonacciTestLow()
+comment3.params=
+comment3.target=void\ fibonacciTestHigh()
+numComments=4

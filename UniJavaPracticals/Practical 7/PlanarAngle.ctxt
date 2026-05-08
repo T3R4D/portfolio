@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlanarAngle
+comment0.text=\r\n\ Planar\ Angle\ class\r\n
+comment1.params=x
+comment1.target=PlanarAngle(double)
+comment1.text=\r\n\ Constructor\ for\ the\ objects\ of\ class\ PlanarAngle\r\n\ \r\n\ @param\ x,\ an\ integer\ between\ 0\ and\ 2PI,\ the\ angle\r\n
+comment2.params=
+comment2.target=double\ asRadians()
+comment2.text=\r\n\ \ Returns\ the\ angle\ in\ Radians\r\n\ \ \r\n\ \ @return\ the\ angle\ in\ Radians\r\n
+comment3.params=
+comment3.target=double\ asDegrees()
+comment3.text=\r\n\ Returns\ the\ angle\ in\ Degrees\r\n\ \r\n\ @return\ the\ angle\ in\ Degrees\r\n
+numComments=4
