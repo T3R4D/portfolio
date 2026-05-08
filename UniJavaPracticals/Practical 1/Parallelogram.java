@@ -15,10 +15,12 @@ class Parallelogram
      */
     static double parallelogramArea(double x1, double y1, double x2, double y2)
     {
-        // Add your code here
         double sum;
+        
         sum = x1*y2;
+        
         sum = sum - x2*y1;
+        
         return sum;
     }
 }

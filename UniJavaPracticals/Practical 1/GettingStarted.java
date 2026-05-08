@@ -12,6 +12,6 @@ class GettingStarted
      */
     static int squarePlusOne(int n)
     {
-        return n*n + 1; // modify this line as appropriate
+        return n*n + 1; 
     }
 }

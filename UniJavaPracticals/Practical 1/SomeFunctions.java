@@ -14,7 +14,7 @@ class SomeFunctions
      */
     static double f1(double x)
     {
-        return 2*x - 4; // Change this 0.0 to something more meaningful.
+        return 2*x - 4; 
     }
 
     /**

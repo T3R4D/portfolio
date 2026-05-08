@@ -12,7 +12,6 @@ class Time
      */
     static String timeConversion(int time)
     {
-        // add your code here
         int hours = time/3600;
         int minutes = time/60 - hours*60;
         int seconds = time - hours*3600 - minutes*60;
