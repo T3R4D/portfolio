@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EANTest
+comment0.text=\r\n\ Unit\ test\ for\ EAN\ codes\r\n\r\n
+comment1.params=ean\ valid
+comment1.target=void\ testEAN(long,\ boolean)
+comment2.params=ean\ expectedBarcode
+comment2.target=void\ testBarcode(long,\ java.lang.String)
+comment3.params=
+comment3.target=void\ isValidEANTest()
+comment4.params=
+comment4.target=void\ constructBarcodeTest()
+numComments=5

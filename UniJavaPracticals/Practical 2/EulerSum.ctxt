@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EulerSum
+comment0.text=\r\n\ Verifying\ Euler's\ summation\ result\r\n
+comment1.params=n
+comment1.target=double\ eulerSum(int)
+comment1.text=\r\n\ Computes\ the\ sum\ over\ k^{-2}\ for\ k\ from\ 1\ to\ N.\r\n\ The\ sum\ is\ then\ multiplied\ with\ 6/Pi^2,\r\n\ so\ that\ the\ result\ is\ expected\ to\ be\ near\ 1\ for\ large\ N.\r\n
+numComments=2

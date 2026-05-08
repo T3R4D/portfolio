@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sums
+comment0.text=\r\n\ Computing\ sums\ with\ the\ help\ of\ loops\r\n
+comment1.params=
+comment1.target=double\ sumPartA()
+comment1.text=\r\n\ Computes\ the\ sum\ in\ part\ a)\ of\ the\ exercise\r\n
+comment2.params=
+comment2.target=double\ sumPartB()
+comment2.text=\r\n\ Computes\ the\ sum\ in\ part\ b)\ of\ the\ exercise.\r\n
+comment3.params=n
+comment3.target=double\ sumPartC(int)
+comment3.text=\r\n\ Computes\ the\ sum\ in\ part\ c)\ of\ the\ exercise.\r\n\ The\ upper\ limit\ n\ of\ the\ sum\ is\ given\ as\ a\ parameter.\ n\ >\=\ 1\ is\ assumed.\r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ A\ slightly\ improved\ class\ for\ converting\ the\ number\ of\ seconds\ after\ midnight\ to\ a\ readable\ string.\r\n
+comment1.params=time
+comment1.target=java.lang.String\ timeConversion(int)
+comment1.text=\r\n\ Converts\ time\ from\ "seconds-past-midnight"\ (integer)\ into\ an\ hours-minutes-seconds\ format\ (String).\r\n
+numComments=2

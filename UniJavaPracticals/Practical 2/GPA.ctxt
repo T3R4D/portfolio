@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GPA
+comment0.text=\r\n\ The\ grade\ point\ average\ system\ (GPA)\ as\ proposed\ by\ the\ Higher\ Education\ Academy.\r\n
+comment1.params=mark
+comment1.target=java.lang.String\ degreeClass(double)
+comment1.text=\r\n\ Compute\ the\ GPA\ degree\ class,\ given\ a\ numerical\ mark\ out\ of\ 100\r\n
+numComments=2

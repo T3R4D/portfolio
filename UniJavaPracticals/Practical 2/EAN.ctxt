@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EAN
+comment0.text=\r\n\ Coding/decoding\ barcodes\ in\ EAN\ format\r\n
+comment1.params=ean
+comment1.target=boolean\ isValidEAN(long)
+comment1.text=\r\n\ Checks\ whether\ a\ given\ long\ integer\ is\ a\ valid\ EAN.\r\n
+comment2.params=ean
+comment2.target=java.lang.String\ constructBarcode(long)
+comment2.text=\r\n\ Constructs\ the\ barcode\ belonging\ to\ a\ given\ EAN.\r\n
+numComments=3

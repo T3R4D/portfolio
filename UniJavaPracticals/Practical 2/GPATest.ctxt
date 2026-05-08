@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GPATest
+comment0.text=\r\n\ Unit\ test\ for\ GPA\ grade\ scale\r\n
+comment1.params=uoy\ gpa
+comment1.target=void\ testDegree(double,\ java.lang.String)
+comment2.params=
+comment2.target=void\ gpaDegreeClassTest()
+numComments=3

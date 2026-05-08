@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Quadratic
+comment0.text=\r\n\ Finding\ the\ solutions\ of\ quadratics\r\n
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ solveQuadratic(double,\ double,\ double)
+comment1.text=\r\n\ Quadratic\ equation\ solver\ for\ the\ equation\ ax\u00B2\ +\ bx\ +\ c\ \=\ 0.\r\n\ Checks\ whether\ real\ solutions\ of\ the\ equation\ exist,\ \r\n\ and\ if\ so,\ computes\ them.\r\n
+numComments=2

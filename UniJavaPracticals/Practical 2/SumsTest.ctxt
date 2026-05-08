@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SumsTest
+comment0.text=\r\n\ Unit\ test\ for\ computing\ sums\r\n
+comment1.params=
+comment1.target=void\ sumPartATest()
+comment2.params=
+comment2.target=void\ sumPartBTest()
+comment3.params=
+comment3.target=void\ sumPartCTest()
+numComments=4

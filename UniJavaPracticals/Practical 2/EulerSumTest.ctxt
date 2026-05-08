@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EulerSumTest
+comment0.text=\r\n\ Unit\ test\ for\ Euler's\ summation\ result\r\n\r\n
+comment1.params=
+comment1.target=void\ eulersumTestSmallN()
+comment2.params=
+comment2.target=void\ eulersumTestLargeN()
+numComments=3
