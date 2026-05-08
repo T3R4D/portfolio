@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TrigFunctions
+comment0.text=\r\n\ A\ problem\ related\ to\ trigonometric\ functions\r\n
+comment1.params=x
+comment1.target=double\ f(double)
+comment1.text=\r\n\ Evaluates\ the\ function\ f,\ as\ given\ on\ the\ exercise\ sheet.\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GettingStarted
+comment0.text=\r\n\ A\ simple\ problem\ for\ getting\ started\ with\ Java.\r\n
+comment1.params=n
+comment1.target=int\ squarePlusOne(int)
+comment1.text=\r\n\ Given\ n,\ computes\ n^2+1\r\n
+numComments=2

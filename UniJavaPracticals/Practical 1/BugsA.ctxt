@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BugsA
+comment0.text=\r\n\ A\ demonstration\ of\ testing\ and\ debugging\ techniques\ (Part\ A)\r\n
+comment1.params=x\ y\ z
+comment1.target=int\ normSquared(int,\ int,\ int)
+comment1.text=\r\n\ Computes\ the\ norm-squared\ of\ a\ vector\ (x,y,z)\ with\ integer\ components.\r\n
+numComments=2
