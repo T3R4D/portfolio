@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MoreSumsTestE
+comment0.text=\r\n\ Unit\ test\ for\ the\ sum\ in\ part\ (e)\ \r\n\r\n
+comment1.params=
+comment1.target=void\ declarationETest()
+comment2.params=n\ a\ b\ expected
+comment2.target=void\ partEOneValue(int,\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ sumETest()
+numComments=4

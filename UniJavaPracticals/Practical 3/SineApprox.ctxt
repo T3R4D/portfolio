@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SineApprox
+comment0.text=\r\n\ Approximation\ of\ the\ sine\ function\ "from\ first\ principles"\ \r\n
+comment1.params=n
+comment1.target=double\ factorial(int)
+comment2.params=x\ e
+comment2.target=double\ sine(double,\ double)
+numComments=3

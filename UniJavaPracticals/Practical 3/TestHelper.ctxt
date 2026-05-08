@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestHelper
+comment0.text=\r\n\ A\ helper\ class\ for\ unit\ tests\r\n
+comment1.params=targetClass
+comment1.target=void\ assertDefaultPackage(java.lang.Class)
+comment1.text=\r\n\ helper\ method\ to\ assert\ that\ a\ class\ is\ located\ in\ the\ default\ package\r\n
+comment2.params=targetClass\ methodName\ returnType\ paramType
+comment2.target=void\ testFunctionDeclared(java.lang.Class,\ java.lang.String,\ java.lang.Class,\ java.lang.Class[])
+comment2.text=\r\n\ helper\ method\ for\ testing\ whether\ a\ (static)\ function\ is\ declared\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SequencesTestD
+comment0.text=\r\n\ Unit\ test\ for\ the\ sequence\ d_n.\r\n
+comment1.params=
+comment1.target=void\ declarationTest()
+comment2.params=n\ gamma\ k\ expected
+comment2.target=void\ partDOneValue(int,\ long,\ long,\ long)
+comment3.params=
+comment3.target=void\ sequenceDTest()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MoreSumsTestG
+comment0.text=\r\n\ Unit\ test\ for\ the\ sum\ in\ part\ (g)\ \r\n\r\n
+comment1.params=n\ expected
+comment1.target=void\ partGOneValue(int,\ double)
+comment2.params=
+comment2.target=void\ sumGTest()
+numComments=3

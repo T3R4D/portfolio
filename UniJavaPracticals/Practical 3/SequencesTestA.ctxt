@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SequencesTestA
+comment0.text=\r\n\ Unit\ test\ for\ the\ sequence\ a_n.\r\n
+comment1.params=
+comment1.target=void\ declarationTest()
+comment2.params=
+comment2.target=void\ sequenceATest()
+numComments=3

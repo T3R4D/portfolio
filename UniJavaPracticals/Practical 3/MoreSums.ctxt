@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MoreSums
+comment1.params=n
+comment1.target=int\ sumA(int)
+comment1.text=\ \r\n\ In\ this\ exercise,\ you\ need\ to\ write\ the\ function\ declarations\ on\ your\ own\!\ \r\n\ The\ following\ template\ may\ be\ useful\ in\ particular\ for\ part\ (a).\ \r\n
+comment2.params=n
+comment2.target=double\ sumB(int)
+comment3.params=m\ x
+comment3.target=double\ sumC(int,\ double)
+comment4.params=n
+comment4.target=long\ productD(int)
+comment5.params=n\ a\ b
+comment5.target=double\ sumE(int,\ double,\ double)
+comment6.params=n
+comment6.target=double\ sumF(int)
+numComments=7
