@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AgentActions
+comment0.text=\r\n\ Functions\ and\ procedures\ that\ act\ on\ agents\r\n
+comment1.params=a
+comment1.target=boolean\ isInfected(Agent)
+comment1.text=\r\n\ Checks\ whether\ an\ agent\ is\ infected.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n\ @return\ true\ if\ the\ agent\ is\ infected,\ false\ if\ they\ are\ not\ infected\ \r\n
+comment2.params=a
+comment2.target=boolean\ isInfectable(Agent)
+comment2.text=\r\n\ Checks\ whether\ an\ agent\ is\ infectable.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n\ @return\ true\ if\ the\ agent\ is\ infectable,\ false\ if\ they\ are\ not\ \r\n\ infectable\ \r\n
+comment3.params=a
+comment3.target=boolean\ isInfectious(Agent)
+comment3.text=\r\n\ Checks\ whether\ an\ agent\ is\ infectious.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n\ @return\ true\ if\ the\ agent\ is\ infectious,\ false\ if\ they\ are\ not\ \r\n\ infectious\ \r\n
+comment4.params=a
+comment4.target=boolean\ isImmune(Agent)
+comment4.text=\r\n\ Checks\ whether\ an\ agent\ is\ immune.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n\ @return\ true\ if\ the\ agent\ is\ immune,\ false\ if\ they\ are\ not\ immune\ \r\n
+comment5.params=a
+comment5.target=void\ move(Agent)
+comment5.text=\r\n\ Moves\ an\ agent.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n
+comment6.params=a
+comment6.target=void\ timeStep(Agent)
+comment6.text=\r\n\ Changes\ the\ timeAfterInfection\ data.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n
+comment7.params=a
+comment7.target=void\ infect(Agent)
+comment7.text=\r\n\ Infects\ an\ agent.\r\n\ \r\n\ @param\ a\ the\ agent\ to\ act\ on\r\n
+numComments=8

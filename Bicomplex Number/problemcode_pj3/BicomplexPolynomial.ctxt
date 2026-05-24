@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BicomplexPolynomial
+comment0.text=\r\n\ A\ class\ representing\ the\ bicomplex\ function\ that\ creates\ polynomials\ \r\n\ P(z)\ \=\ sum_(j<n)\ c_j*z^j\r\n\ with\ coefficients\ c_j\ an\ array\ of\ bicomplex\ numbers\r\n
+comment1.params=cValue
+comment1.target=BicomplexPolynomial(BicomplexNumber[])
+comment1.text=\r\n\ Constructor\ for\ the\ class.\ The\ value\ of\ c\ is\ passed\ as\ a\ parameter,\r\n\ then\ stored\ in\ a\ respective\ field.\r\n\ \r\n\ @param\ cValue\ value\ of\ c\r\n
+comment2.params=z
+comment2.target=BicomplexNumber\ valueAt(BicomplexNumber)
+comment2.text=\r\n\ Evaluates\ the\ function\ bicomplex\ polynomial\ at\ a\ specfic\ point.\r\n\ \r\n\ @param\ z\ the\ point\ to\ evaluate\ at\r\n\ @return\ P(z)\ where\ P\ is\ a\ polynomial\r\n
+numComments=3

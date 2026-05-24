@@ -1,0 +1,5 @@
+\contentsline {section}{\tocsection {}{1}{Introduction}}{1}%
+\contentsline {section}{\tocsection {}{2}{Bicomplex Number}}{1}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{BicomplexNumber.multiply(BicomplexNumber w)}}{1}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{BicomplexNumber.invert()}}{2}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{BicomplexNumber.divide(BicomplexNumber w)}}{2}%

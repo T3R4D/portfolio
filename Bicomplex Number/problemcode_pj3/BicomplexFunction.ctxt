@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BicomplexFunction
+comment0.text=\r\n\ A\ class\ that\ represents\ a\ bicomplex\ function\ \r\n
+comment1.params=z
+comment1.target=BicomplexNumber\ valueAt(BicomplexNumber)
+comment1.text=\r\n\ Evaluate\ the\ function\ at\ a\ specfic\ point.\r\n\ \r\n\ @param\ x\ the\ point\ to\ evaluate\ at\r\n\ @return\ f(x)\ where\ f\ is\ the\ function\ described\ by\ this\ object\r\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ZeroFinder
+comment0.text=\r\n\ A\ class\ that\ aims\ to\ find\ the\ zeros\ of\ bicomplex\ functions\ using\ the\ \r\n\ secant\ method\r\n
+comment1.params=f\ x0\ x1
+comment1.target=BicomplexNumber\ secantMethod(BicomplexFunction,\ BicomplexNumber,\ BicomplexNumber)
+comment1.text=\r\n\ Finds\ the\ zero\ of\ a\ function\ using\ the\ secant\ method\r\n\ \r\n\ @param\ f\ bicomplex\ number\ to\ find\ the\ zeros\ of\r\n\ @param\ x0\ a\ start\ value\ for\ the\ algorithm\r\n\ @param\ x1\ an\ end\ value\ for\ the\ algorithm\r\n\ @returns\ Bicomplex\ Number\ where\ a\ zero\ occurs\r\n
+comment2.params=f\ r
+comment2.target=java.util.List\ findAllZeros(BicomplexFunction,\ double)
+comment2.text=\r\n\ Finds\ all\ the\ zeros\ of\ a\ function\ in\ the\ region\ |z|\ <\ r\ \r\n\ using\ the\ secant\ method\r\n\ \r\n\ @param\ f\ bicomplex\ number\ to\ find\ the\ zeros\ of\r\n\ @param\ r\ double\ number\ (r>0)\ \r\n\ @returns\ List<BicomplexNumber>\ of\ all\ the\ zeros\ \r\n
+comment3.params=c
+comment3.target=BicomplexNumber\ findSolution(BicomplexNumber)
+comment3.text=\r\n\ Finds\ a\ solution\ z\ such\ that\ exp(z)\ \=\ cz\r\n\ \r\n\ @param\ c\ a\ bicomplex\ number\ \r\n\ @returns\ a\ bicomplex\ number\ that\ is\ a\ solution\ to\ exp(z)\ \=\ cz\ \r\n
+numComments=4

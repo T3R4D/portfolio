@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Simulator
+comment0.text=\r\n\ Procedures\ for\ the\ simulator\ \r\n
+comment1.params=a
+comment1.target=int\ countInfected(Agent[])
+comment1.text=\r\n\ Counts\ the\ number\ of\ infected\ agents\ in\ an\ array.\r\n\ \r\n\ @param\ a\ the\ agent\ array\ to\ count\ from\r\n\ @return\ the\ number\ of\ infected\ agents\r\n
+comment2.params=a
+comment2.target=int\ countInfectious(Agent[])
+comment2.text=\r\n\ Counts\ the\ number\ of\ infectious\ agents\ in\ an\ array.\r\n\ \r\n\ @param\ a\ the\ agent\ array\ to\ count\ from\r\n\ @return\ the\ number\ of\ infectious\ agents\r\n
+comment3.params=a
+comment3.target=int\ countImmune(Agent[])
+comment3.text=\r\n\ Counts\ the\ number\ of\ immune\ agents\ in\ an\ array.\r\n\ \r\n\ @param\ a\ the\ agent\ array\ to\ count\ from\r\n\ @return\ the\ number\ of\ immune\ agents\r\n
+comment4.params=n\ p
+comment4.target=Agent[]\ randomAgents(int,\ double)
+comment4.text=\r\n\ Create\ an\ array\ of\ random\ agents.\r\n\ \r\n\ @param\ n\ the\ amount\ of\ agents\ to\ create,\ assumed\ to\ be\ >\=1\r\n\ @param\ p\ the\ probability\ an\ agent\ becomes\ infected,\ assumed\ to\ be\ \r\n\ 0\ <\=\ p\ <\=\ 1\r\n\ @return\ an\ array\ of\ random\ agents\ \r\n
+comment5.params=a
+comment5.target=void\ oneRound(Agent[])
+comment5.text=\r\n\ Computes\ one\ round\ of\ the\ simulation\r\n\ \r\n\ @param\ a\ an\ array\ of\ agent\ records\r\n
+comment6.params=n\ p\ r\ filename
+comment6.target=void\ runSimulation(int,\ double,\ int,\ java.lang.String)
+comment6.text=\r\n\ Runs\ the\ simulation\ of\ the\ infectious\ disease\r\n\ \r\n\ @param\ n\ the\ amount\ of\ agents\ to\ create,\ assumed\ to\ be\ >\=\ 1\r\n\ @param\ p\ the\ probability\ an\ agent\ becomes\ infected,\ assumed\ to\ be\ \r\n\ 0\ <\=\ p\ <\=\ 1\r\n\ @param\ r\ the\ number\ of\ rounds\ for\ the\ simulation\ to\ run,\ assume\ to\ be\ \r\n\ >\=\ 1\r\n\ @param\ filename\ the\ name\ of\ the\ file\ to\ store\ the\ data\r\n\ \r\n\ @throws\ IOException\ If\ an\ input\ or\ output\ exception\ occurred\r\n
+numComments=7

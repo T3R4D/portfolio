@@ -1,0 +1,97 @@
+\documentclass[12pt, a4]{amsart}
+
+\usepackage{xcolor}
+
+\title{Advanced Programming Project - Test Plan}
+\date{April 2021}
+\author{Anon}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+	\section{Introduction}
+	
+		This test plan details the methods and examples I have used to verify whether the methods from my project are functioning to the specifications in the project description. The 
+		methods tested are multiply, inverse and divide as required.
+	
+	\section{Bicomplex Number}
+	
+		This class is designed to create bicomplex numbers from 4 real numbers or 2 complex numbers. It is also designed to operate on these bicomplex numbers. \\
+		Where non-trivial, the expected outputs were calculated by hand. \color{white} Cause fuck me i guess \color{black}
+	
+	\subsection{BicomplexNumber.multiply(BicomplexNumber w)}
+	
+		This function returns the product of two bicomplex numbers, z and w. \\
+		Generic examples of two bicomplex numbers are tested including negative and decimal. A zero bicomplex number is also tested. \\
+	
+			\begin{tabular}{ c c c }
+			\hline
+			z & w & Expected output \\
+			\hline
+			\hline
+			$1 + 1i + 1j + 1k$ & $1 + 1i + 1j + 1k$ & $4k$ \\ 
+			$1 + 1i + 1j + 1k$ & $0 + 0i + 0j + 0k$ & $0 + 0i + 0j + 0k$ \\ 
+			$1 + 5i + 8j + 6k$ & $9 + 2i + 7j + 9k$ & $-3 - 67i +22j + 114k$ \\ 
+			$9 + 2i + 7j + 9k$ & $1 + 5i + 8j + 6k$ & $-3	-67i +22j + 114k$ \\ 
+			$1$ & $-4 + 0i + 7j - 1k$ & $-4 + 0i + 7j - 1k$ \\ 
+			$4 + 8i + 2j + 6k$ & $0.25 + 2i + 0.5j + 4k$ & $8 - 1i +41.5j + 25.5k$ \\ 
+			\hline
+			\end{tabular} \\
+	
+	\subsection{BicomplexNumber.invert()}
+	
+		This function returns the inverted form of a bicomplex number z. \\
+		Generic examples of bicomplex numbers are tested including negative and decimal.  \\
+		Exceptional case where the bicomplex number is not invertible is also tested. \\
+		
+			\begin{tabular}{ c c }
+			\hline
+			z & Expected output \\
+			\hline
+			\hline
+			$0 + 0i + 0j + 0k$ & ArithmeticException: \\ 
+						& ``Bicomplex number is not invertible!"\\
+			$1 + 1i + 1j + 1k$ & $0.25 + -0.25i  - 0.25j + 0.25k$ \\ 
+			$0.25 + 0.25i + 0.25j + 0.25k$ & $1 + 1i + 1j + 1k$ \\ 
+			$2 - 2i - 2j + 2k$ & $0.125 + 0.125i + 0.125j + 0.125k $ \\ 
+			\hline
+			\end{tabular} \\
+	
+	\subsection{BicomplexNumber.divide(BicomplexNumber w)}
+	
+		This function divides a bicomplex number z by another bicomplex number w. \\
+		Generic examples of bicomplex numbers are tested including negative. \\
+		Exceptional case where the bicomplex number w is not invertible is also tested. \\
+		
+			\begin{tabular}{ c c c }
+			\hline
+			z & w & Expected output \\
+			\hline
+			\hline
+			$0 + 0i + 0j + 0k$ & $1 + 1i + 1j + 1k$ & $0 + 0i + 0j + 0k$ \\
+			$1 + 1i + 1j + 1k$ & $0 + 0i + 0j + 0k$ & AritmeticException: \\
+								& & ``Bicomplex number is not invertible!"\\ 
+			$1 + 1i + 1j + 1k$ & $1 + 1i + 1j + 1k$ & $1$ \\ 
+			$1 + 1i + 1j + 1k$ & $1$ & $1 + 1i + 1j + 1k$ \\ 
+			$-3 -67i +22j + 114k$ & $9 + 2i + 7j + 9k$ & $1 + 5i + 8j + 6k$ \\ 
+			\hline
+			\end{tabular}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
